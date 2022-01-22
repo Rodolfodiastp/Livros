@@ -5,7 +5,7 @@ Livros de Literatura e livros técnicos.
 [Links com base do site E Livros](https://elivros.love/)
 
 Literatura e Ficção
-[Romance](https://elivros.love/categoria/romance):
+[Romance](https://elivros.love/categoria/romance)\n
 [Aventua](https://elivros.love/categoria/aventura)
 [Biografia e Memórias](https://elivros.love/categoria/biografias-e-memorias)
 [Ficção](https://elivros.love/categoria/ficcao)
